@@ -8,4 +8,10 @@ while i < 4:
     turtle.left(-90)
     i += 1
 
+# haromszog
+turtle.setheading(60)
+turtle.forward(100)
+turtle.setheading(-60)
+turtle.forward(100)
+
 turtle.done()
