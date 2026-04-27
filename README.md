@@ -1,4 +1,4 @@
-# CsP
+# Cs.P.
 ## gitignore + readme használata
 <a href="https://www.coursera.org/resources/markdown-cheat-sheet?" target="_blank">Link szöveg</a>
 
