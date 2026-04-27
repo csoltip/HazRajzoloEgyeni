@@ -1,5 +1,5 @@
 import turtle
-turtle.color("red")
+turtle.color("yellow")
 
 # negyzet
 i = 0
